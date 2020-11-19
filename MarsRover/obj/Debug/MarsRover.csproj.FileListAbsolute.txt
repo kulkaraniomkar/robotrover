@@ -1,0 +1,9 @@
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\bin\Debug\MarsRover.dll
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\bin\Debug\MarsRover.pdb
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\bin\Debug\Ninject.dll
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\bin\Debug\Ninject.xml
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\obj\Debug\MarsRover.csprojAssemblyReference.cache
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\obj\Debug\MarsRover.csproj.CopyComplete
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\obj\Debug\MarsRover.dll
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover\obj\Debug\MarsRover.pdb

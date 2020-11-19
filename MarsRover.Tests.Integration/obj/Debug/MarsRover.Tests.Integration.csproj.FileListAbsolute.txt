@@ -1,0 +1,13 @@
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\bin\Debug\MarsRover.Tests.Integration.dll
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\bin\Debug\MarsRover.Tests.Integration.pdb
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\bin\Debug\MarsRover.dll
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\bin\Debug\Ninject.dll
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\bin\Debug\nunit.framework.dll
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\bin\Debug\MarsRover.pdb
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\bin\Debug\Ninject.xml
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\bin\Debug\nunit.framework.xml
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\obj\Debug\MarsRover.Tests.Integration.csprojAssemblyReference.cache
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\obj\Debug\MarsRover.Tests.Integration.csproj.CoreCompileInputs.cache
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\obj\Debug\MarsRover.Tests.Integration.csproj.CopyComplete
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\obj\Debug\MarsRover.Tests.Integration.dll
+C:\Pratice\MarsRover-master\MarsRover-master\MarsRover.Tests.Integration\obj\Debug\MarsRover.Tests.Integration.pdb
