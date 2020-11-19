@@ -16,8 +16,8 @@ namespace MarsRover.IoC.Modules
             Bind<IRoverFactory>().ToProvider<NinjectRoverFactoryProvider>();
             Bind<IMotorFactory>().ToProvider<NinjectMotorFactoryProvider>();
 
-            Bind<IMotor>().To<LeftMotor>().Named("L");
-            Bind<IMotor>().To<RightMotor>().Named("R");
+            Bind<IMotor>().To<LeftMotor>().Named("L1");
+            Bind<IMotor>().To<RightMotor>().Named("R1");
             Bind<IMotor>().To<ForwardMotor>().Named("F");
 
             Bind<IForwardMotor>().To<NorthForwardMotor>().Named(ORIENTATION.NORTH.ToString());
